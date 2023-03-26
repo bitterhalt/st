@@ -5,7 +5,6 @@ Xft.autohint: false
 Xft.hintstyle: hintfull
 Xft.lcdfilter: lcddefault
 
-
 !! Set a default font and font size as below:
 st.font: JetBrains Mono Nerd Font:pixelsize=14
 
@@ -55,7 +54,3 @@ st.font: JetBrains Mono Nerd Font:pixelsize=14
 !*.background: #282A36
 !*.cursorColor:#F8F8F2
 !*.foreground: #F8F8F2
-
-!! Nsxiv colors
-Nsxiv*background: #282828
-Nsxiv*foreground: #458588
