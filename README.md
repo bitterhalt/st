@@ -4,6 +4,7 @@ Nothing to see here. This is just my minimal build of [suckless terminal (st)](h
 
 ### Patches:
 * st-bold-is-not-bright
+* st-boxdraw
 * st-desktopentry
 * st-glyph-wide-support
 * st-scrollback
