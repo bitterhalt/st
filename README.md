@@ -3,13 +3,13 @@
 Nothing to see here. This is just my minimal build of [suckless terminal (st)](https://st.suckless.org/)
 
 ### Patches:
-* st-bold-is-not-bright
-* st-boxdraw
-* st-desktopentry
-* st-glyph-wide-support
-* st-scrollback
-* st-w3m
-* xresources
+* [st-bold-is-not-bright](https://st.suckless.org/patches/bold-is-not-bright/)
+* [st-boxdraw](https://st.suckless.org/patches/boxdraw/)
+* [st-desktopentry](https://st.suckless.org/patches/desktopentry/)
+* [st-glyph-wide-support](https://st.suckless.org/patches/glyph_wide_support/)
+* [st-scrollback](https://st.suckless.org/patches/scrollback/)
+* [st-w3m](https://st.suckless.org/patches/w3m/)
+* [xresources](https://st.suckless.org/patches/xresources/)
 
 ## Installation
 ```
