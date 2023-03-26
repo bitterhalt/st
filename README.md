@@ -10,6 +10,7 @@ Nothing to see here. This is just my minimal build of [suckless terminal (st)](h
 * [st-scrollback](https://st.suckless.org/patches/scrollback/)
 * [st-w3m](https://st.suckless.org/patches/w3m/)
 * [xresources](https://st.suckless.org/patches/xresources/)
+* [patch_column](https://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diff) This is golden one - it prevents cut text while resizing!)
 
 ## Installation
 ```
@@ -37,5 +38,7 @@ Scroll Up / Down      | `shift` + `PdgUp` / `PgDn`
 
 * Forked from [https://st.suckless.org/](https://st.suckless.org/)
 * Based on Aurélien APTEL aurelien.aptel@gmail.com bt source code.
+* patch_column by: https://github.com/nimaipatel
+
 
 
