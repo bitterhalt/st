@@ -14,7 +14,7 @@ I just add features that I need, so not much fancy stuff here, like alpha transp
 * [st-scrollback](https://st.suckless.org/patches/scrollback/)
 * [st-w3m](https://st.suckless.org/patches/w3m/)
 * [xresources](https://st.suckless.org/patches/xresources/)
-* [patch_column](https://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diff) This is golden one - it prevents cut text while resizing!)
+* [patch_column](https://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diff) This is golden one - it prevents text to be cut off while resizing window.
 
 ## Installation
 ```
