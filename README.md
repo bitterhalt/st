@@ -1,6 +1,8 @@
 ## ST - simple terminal (suckless) terminal
 
 Nothing to see here. This is just my minimal build of [suckless terminal (st)](https://st.suckless.org/)
+This build is suppose to be small as possible so I just add features that I need, so not much fancy stuff here, like alpha transparency and ligatures 😬
+
 
 ### Patches:
 * [st-bold-is-not-bright](https://st.suckless.org/patches/bold-is-not-bright/)
@@ -33,12 +35,8 @@ Scroll Up / Down      | `shift` + `PdgUp` / `PgDn`
 * You must run: ```xrdb -merge ~/.Xresources``` to apply colors
 * If you want, you can copy contents of **example-xresources** to your **$HOME/.Xresources** and xrdb -merge it 
 
-
 ### Credits
 
 * Forked from [https://st.suckless.org/](https://st.suckless.org/)
 * Based on Aurélien APTEL aurelien.aptel@gmail.com bt source code.
 * patch_column: https://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diff  
-
- 
-
