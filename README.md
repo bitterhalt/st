@@ -1,7 +1,9 @@
 ## ST - simple terminal (suckless) terminal
 
 Nothing to see here. This is just my minimal build of [suckless terminal (st)](https://st.suckless.org/)
-This build is suppose to be small as possible so I just add features that I need, so not much fancy stuff here, like alpha transparency and ligatures 😬
+This build is suppose to be small as possible.
+
+I just add features that I need, so not much fancy stuff here, like alpha transparency and ligatures 😬
 
 
 ### Patches:
