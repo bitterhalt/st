@@ -16,7 +16,7 @@ Nothing to see here. This is just my minimal build of [suckless terminal (st)](h
 ```
 git clone https://github.com/bitterhalt/st
 cd st
-sudo make instalhttps://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diffhttps://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diff
+sudo make instal
 ```
 ### Keyboard Shortcuts
 Action      | Key Combination
