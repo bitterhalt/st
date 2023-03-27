@@ -16,7 +16,7 @@ Nothing to see here. This is just my minimal build of [suckless terminal (st)](h
 ```
 git clone https://github.com/bitterhalt/st
 cd st
-sudo make install
+sudo make instalhttps://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diffhttps://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diff
 ```
 ### Keyboard Shortcuts
 Action      | Key Combination
@@ -38,7 +38,7 @@ Scroll Up / Down      | `shift` + `PdgUp` / `PgDn`
 
 * Forked from [https://st.suckless.org/](https://st.suckless.org/)
 * Based on Aurélien APTEL aurelien.aptel@gmail.com bt source code.
-* patch_column by: https://github.com/nimaipatel
+* patch_column: https://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diff  
 
-
+ 
 
