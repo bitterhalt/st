@@ -33,6 +33,7 @@ Reset Zoom  | `ctrl` + `0`
 Scroll Up / Down      | `shift` + `PdgUp` / `PgDn`
 
 ### Theming
+* Default (fallback) theme is Gruvbox Dark
 * This build of ST has xresources-patch, meaning you can manage colors, fonts etc. through your .Xresources -file
 * You must run: ```xrdb -merge ~/.Xresources``` to apply colors
 * If you want, you can copy contents of **example-xresources** to your **$HOME/.Xresources** and xrdb -merge it 
