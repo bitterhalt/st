@@ -5,6 +5,9 @@ This build is suppose to be small as possible.
 
 I just add features that I need, so not much fancy stuff here, like alpha transparency and ligatures 😬
 
+![228566814-72c9b01e-b34a-4218-8e6a-c838605d8483](https://user-images.githubusercontent.com/95308907/228569294-94fd2e60-589b-48eb-ad70-38c3e87a0abf.png)
+
+![228566831-9479822f-ff3f-4e83-8c80-037f98b1c0cb](https://user-images.githubusercontent.com/95308907/228569325-7ce55d44-5eb1-4c14-a049-da975f68baae.png)
 
 ### Patches:
 * [st-bold-is-not-bright](https://st.suckless.org/patches/bold-is-not-bright/)
