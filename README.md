@@ -15,7 +15,6 @@ I just add features that I need, so not much fancy stuff here, like alpha transp
 * [st-desktopentry](https://st.suckless.org/patches/desktopentry/)
 * [st-glyph-wide-support](https://st.suckless.org/patches/glyph_wide_support/)
 * [st-scrollback](https://st.suckless.org/patches/scrollback/)
-* [st-w3m](https://st.suckless.org/patches/w3m/)
 * [xresources](https://st.suckless.org/patches/xresources/)
 
 ## Installation
